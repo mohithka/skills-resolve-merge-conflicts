@@ -1,2 +1,3 @@
 "Team Skills List" 
 "Python" 
+"FastAPI" 
